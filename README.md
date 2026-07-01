@@ -46,6 +46,3 @@ Imagen guardada en: foto_grey.jpg
 
 Cualquier formato que soporte Pillow: PNG, JPEG, GIF, BMP, TIFF, WebP, entre otros.
 
-## Licencia
-
-MIT
